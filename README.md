@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthews (@Mattioz)
-- 👀 I’m interested in game dev
-- 🌱 I’m currently learning GML, JS and C#
+- 👀 I’m interested in Game Dev, QA Game Test and Game Design
+- 🌱 I’m currently learning GML and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on Linkedin and Twitch.
 
