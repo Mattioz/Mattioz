@@ -28,7 +28,22 @@ You can click the Preview link to take a look at your changes.
   <br><a href="https://www.twitch.tv/mattioz" target="_blank"><img src="https://img.shields.io/badge/-Twitch-%23483D8B?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/mattioz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matthews-dias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
  
-  ![snake gif](https://github.com/Mattioz/Mattioz/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/Mattioz/Mattioz/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
