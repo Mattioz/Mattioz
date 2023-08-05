@@ -6,7 +6,6 @@ You can click the Preview link to take a look at your changes.
 <h1> Hi! My name is Matthews. </h1>
 - 👀 I’m interested in Game Dev, QA Game Test, and Game Design
 <br>- 🌱 I’m currently learning Unity and C#
-<br>- 💞️ I’m looking to collaborate on ...
 <br>- 📫 You can reach me on Linkedin and Twitch. <br> 
 <br>
 
